@@ -4,6 +4,3 @@
 [submodule "src/sllidar_ros2"]
 	path = src/sllidar_ros2
 	url = https://github.com/numbersletter/sllidar_ros2.git
-[submodule "src/slam_toolbox"]
-	path = src/slam_toolbox
-	url = https://github.com/numbersletter/slam_toolbox.git
